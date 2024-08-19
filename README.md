@@ -38,14 +38,14 @@
 
 
 
-## Technologies I am currently learning
+## Technologies I am currently learning:
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 
+## Goals I am contributing to:
 
-
-
+![sdg](https://github.com/user-attachments/assets/09e9a4df-f9ca-48f1-9d29-884e87697bbc)
 
 <!--
 **NB-Kamoni/NB-Kamoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
