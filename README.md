@@ -12,16 +12,16 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NB-Kamoni&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FDC500&hide_title=true&hide_rank=true&line_height=50&ring_color=FDC500)](https://github.com/NB-Kamoni/github-readme-stats)   
-
-### Technologies I've Worked With
-
-![ReactJS](https://img.shields.io/badge/ReactJS-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NB-Kamoni&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FDC500&hide_title=true&hide_rank=true&line_height=50&ring_color=FDC500)](https://github.com/NB-Kamoni/github-readme-stats)   ### Technologies I've Worked With  ![ReactJS](https://img.shields.io/badge/ReactJS-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23d71f00.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+
+
 
 
 
