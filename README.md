@@ -3,9 +3,24 @@
 
 ### Connect with me:
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@kamoninjoki7220)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D7500.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254114732074)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamoni/)
+### Connect with me:
+
+<div style="display: flex; gap: 10px;">
+
+<a href="https://www.youtube.com/@kamoninjoki7220" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" style="height:40px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+<a href="https://wa.me/254114732074" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-%25D7500.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="height:40px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kamoni/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:40px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+</div>
+
 
 
 
