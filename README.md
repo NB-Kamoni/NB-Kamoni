@@ -13,6 +13,10 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NB-Kamoni&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FDC500&hide_title=true&hide_rank=true&line_height=50&ring_color=FDC500)](https://github.com/NB-Kamoni/github-readme-stats) 
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NB-Kamoni&layout=compact&theme=radical)
 <!--
 **NB-Kamoni/NB-Kamoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
