@@ -23,6 +23,19 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NB-Kamoni&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FDC500&hide_title=true&hide_rank=true&line_height=50&ring_color=FDC500)](https://github.com/NB-Kamoni/github-readme-stats)   ![Untitled drawing](https://github.com/user-attachments/assets/974d1753-c5ba-42c4-936b-ac1eed4d7522)
 
 
+<div style="display: flex; align-items: center;">
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/NB-Kamoni/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=NB-Kamoni&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FDC500&hide_title=true&hide_rank=true&line_height=50&ring_color=FDC500" alt="GitHub Stats" />
+  </a>
+
+  <!-- Custom Image -->
+  <img src="https://github.com/user-attachments/assets/974d1753-c5ba-42c4-936b-ac1eed4d7522" alt="Custom Image" style="margin-left: 20px;" />
+
+</div>
+
+
 
 
 
