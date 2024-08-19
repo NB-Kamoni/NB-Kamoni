@@ -1,4 +1,6 @@
-## Hi there 👋
+![Your paragraph text](https://github.com/user-attachments/assets/2cadef91-17cd-4ba8-93ac-9a05756585ee)
+
+
 
 <!--
 **NB-Kamoni/NB-Kamoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
